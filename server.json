@@ -39,6 +39,14 @@
       "type": "income",
       "createdAt": "2023-12-05T19:18:20.649Z",
       "id": 5
+    },
+    {
+      "description": "teste 2",
+      "price": 11,
+      "category": "teste",
+      "type": "outcome",
+      "createdAt": "2023-12-06T00:14:14.537Z",
+      "id": 6
     }
   ]
 }
